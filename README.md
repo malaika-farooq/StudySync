@@ -1,1 +1,1 @@
-# collabHub
+# StudySync
